@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Robust RESTful APIs with FastAPI, SQLAlchemy, and JWT Authentication<br>👯 Open-source backend services and Python API projects<br>🤝 Advanced database migrations with Alembic and async ORMs<br>🌱 FastAPI, API security patterns, and production deployment architectures<br>💬 Python backend basics, CRUD architecture, middleware, and JWT auth<br>⚡ I build secure backend APIs before most people learn what an HTTP status code is!
+🔭 Robust RESTful APIs with FastAPI, SQLAlchemy, and JWT Authentication<br>👯 Open-source backend services and Python API projects<br>🤝 Advanced database migrations with Alembic and async ORMs<br>🌱 FastAPI, API security patterns, and production deployment architectures<br>💬 Python backend basics, CRUD architecture, middleware, and JWT auth<br>⚡ I build high-performance, secure backend APIs designed to scale efficiently and handle secure user data seamlessly.
 
 
 ## 🌐 Socials:
