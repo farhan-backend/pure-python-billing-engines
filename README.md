@@ -1,17 +1,40 @@
-# 💫 About Me:
-🔭 Robust RESTful APIs with FastAPI, SQLAlchemy, and JWT Authentication<br>👯 Open-source backend services and Python API projects<br>🤝 Advanced database migrations with Alembic and async ORMs<br>🌱 FastAPI, API security patterns, and production deployment architectures<br>💬 Python backend basics, CRUD architecture, middleware, and JWT auth<br>⚡ I build high-performance, secure backend APIs designed to scale efficiently and handle secure user data seamlessly.
+# Pure Python Business Automation & Billing Engines
 
+A comprehensive collection of 20 standalone, production-grade business logic modules and automated invoicing frameworks written in pure Python. This repository showcases core algorithmic architectures, object-oriented programming (OOP), data manipulation matrices, and complex pricing calculations required for high-performance backend systems.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammed.farhan0648@gmail.com) 
+## 🛠️ Tech Stack & Utilities
+* **Language:** Python 3 (OOP, Data Structures, Invoicing Matrices)
+* **Design Patterns:** Encapsulation, State Management, Polymorphism
+* **Specialty:** Dynamic Tariff Calculations, Automated Surge Pricing, Inventory Logistics
 
-# 💻 Tech Stack:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=farhan-backend&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=farhan-backend&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📦 Featured Backend Core Engines
+
+### 1. 🚛 Logistics & Dispatch Management
+Calculates dynamic routing delivery tariffs, multi-warehouse dispatch cross-docking models, fuel cost indexing surcharges, and automated green carbon offset parameters.
+
+### 2. ⚡ VoltPulse: EV Charging & Energy Billing
+Processes real-world electric vehicle charging intervals, high-speed thermal regulation penalties, clean energy tier benefits, and time-of-use kilowatt matrices.
+
+### 3. ☁️ CloudTier: SaaS Subscription Matrix
+Manages multi-layered enterprise SaaS licenses, prorated service add-ons, computing utility burst overrides, and monthly rolling transaction volumes.
+
+### 4. 🎬 Cinema Multiplex Ticketing System
+Computes seat classification markups, dynamic group quantity discounts, promotional meal package combinations, and state tax itemization.
+
+### 5. 💻 DevBill: Freelance Milestone Invoicing
+Automates contract development tracking, variable project milestone triggers, project revision penalties, and emergency support surge pricing multipliers.
+
+### 🚀 Additional Engines Included:
+* **Cloud API Gateway Billing:** Rate-limiting token structures.
+* **Airline Flight Ticketing:** Dynamic baggage limits and seating upgrade invoices.
+* **Loan EMI Calculator:** Fixed-rate amortization schedule generators.
+* **Hospital Inpatient Billing:** Multi-day ward occupancy and room service aggregation.
+* **Cloud Server Invoicing:** Dynamic virtual machine runtime utilization logging.
 
 ---
-[![](https://komarev.com/ghpvc/?username=farhan-backend&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📩 Contact & Freelance Inquiries
+Looking to optimize your core business logic, automate complex invoices, or build stable backend architectures? Let's discuss your engineering needs!
+
+* **GitHub Profile:** [@farhan-backend](https://github.com)
+* **Email:** [Contact Me Via Email](mailto:farhan.backend@://gmail.com)
