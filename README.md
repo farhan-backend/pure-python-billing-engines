@@ -9,13 +9,13 @@ A comprehensive collection of 20 standalone, production-grade business logic mod
 
 ## 📦 Featured Backend Core Engines
 
-### 1. 🚛 Logistics & Dispatch Management
+### 1. 🚛 [Logistics & Dispatch Management](./01_logistics_dispatch_management.py)
 Calculates dynamic routing delivery tariffs, multi-warehouse dispatch cross-docking models, fuel cost indexing surcharges, and automated green carbon offset parameters.
 
-### 2. ⚡ VoltPulse: EV Charging & Energy Billing
+### 2. ⚡ [VoltPulse: EV Charging & Energy Billing](./04_ev_charging_billing.py)
 Processes real-world electric vehicle charging intervals, high-speed thermal regulation penalties, clean energy tier benefits, and time-of-use kilowatt matrices.
 
-### 3. ☁️ CloudTier: SaaS Subscription Matrix
+### 3. ☁️ [CloudTier: SaaS Subscription Matrix](./05_saas_subscription_billing.py)
 Manages multi-layered enterprise SaaS licenses, prorated service add-ons, computing utility burst overrides, and monthly rolling transaction volumes.
 
 ### 4. 🎬 Cinema Multiplex Ticketing System
