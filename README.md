@@ -1,43 +1,40 @@
 # Pure Python Business Automation & Billing Engines
 
-A comprehensive collection of 20 standalone, production-grade business logic modules and automated invoicing frameworks written in pure Python. This repository showcases core algorithmic architectures, object-oriented programming (OOP), data manipulation matrices, and complex pricing calculations required for high-performance backend systems.
+A comprehensive enterprise collection of production-grade business logic modules, financial calculators, and automated invoicing frameworks written in pure Python. This repository showcases core algorithmic architectures, object-oriented programming (OOP), data manipulation matrices, and complex pricing calculations required for high-performance backend systems.
 
 ## 🛠️ Tech Stack & Utilities
 * **Language:** Python 3 (OOP, Data Structures, Invoicing Matrices)
 * **Design Patterns:** Encapsulation, State Management, Polymorphism
-* **Specialty:** Dynamic Tariff Calculations, Automated Surge Pricing, Inventory Logistics
+* **Specialties:** Dynamic Tariff Calculations, Utility Cost Billing, Financial Amortization, System Logging
 
-## 📦 Featured Backend Core Engines
+---
 
-### 1. 🚛 [Logistics & Dispatch Management](./01_logistics_%20dispatch_management.py)
-Calculates dynamic routing delivery tariffs, multi-warehouse dispatch cross-docking models, fuel cost indexing surcharges, and automated green carbon offset parameters.
+## 📦 Core Architecture & Billing Engines
 
-### 2. ⚡ [VoltPulse: EV Charging & Energy Billing](./02_ev_charging_billing.py)
-Processes real-world electric vehicle charging intervals, high-speed thermal regulation penalties, clean energy tier benefits, and time-of-use kilowatt matrices.
+### 💼 Enterprise Invoicing & Subscription Systems
+* **[01. Logistics & Dispatch Management](./01_logistics_%20dispatch_management.py):** Calculates dynamic delivery tariffs, multi-warehouse dispatch models, and fuel cost indexing surcharges.
+* **[02. Cloud API Gateway Billing](./02_cloud_api_gateway_billing.py):** Handles tier-based developer API usage metrics, rate-limiting tier flags, and overage billing calculations.
+* **[03. Airline Flight Booking Engine](./03_airline_flight_booking.py):** Computes variable baggage weight fees, premium seating upcharges, and flight convenience surcharges.
+* **[04. VoltPulse: EV Charging Billing](./04_ev_charging_billing.py):** Processes electrical vehicle utility intervals, time-of-use kilowatt pricing, and thermal regulation overrides.
+* **[05. CloudTier: SaaS Subscription Matrix](./05_saas_subscription_billing.py):** Manages multi-layered license management, prorated mid-cycle updates, and resource usage matrices.
+* **[06. Cinema Ticket Invoice System](./09_cinema_ticket_invoice.py):** Computes seat classification markups, group quantity discounts, and automated sales tax breakdowns.
+* **[07. DevBill: Freelance Project Invoicing](./10_freelance_project_invoice.py):** Tracks milestone contract payments, timeline scope revision penalties, and emergency support surge multipliers.
+* **[08. Vehicle Rental Billing Module](./13_vehicle_rental_billing.py):** Manages mileage overage rates, delayed return late penalties, and dynamic fleet insurance coverage tiers.
+* **[09. Retail Product Invoicing System](./15_retail_product_invoice.py):** Handles multi-item retail point-of-sale calculations, promotional coupon deductions, and bulk orders.
 
-### 3. ☁️ [CloudTier: SaaS Subscription Matrix](./03_saas_subscription_billing.py)
-Manages multi-layered enterprise SaaS licenses, prorated service add-ons, computing utility burst overrides, and monthly rolling transaction volumes.
+### 🏥 Healthcare & Institutional Automation
+* **[01. Hospital Inpatient Billing Matrix](./08_hospital_billing_system.py):** Aggregates multi-day ward occupancy, medical specialist consulting fees, and tier-based lab tests.
+* **[02. Gym Membership Billing Suite](./11_gym_membership_billing.py):** Automates monthly membership subscription tiers, personal trainer add-on fees, and cancellation calculations.
+* **[03. Student Marks & Grade Matrix](./14_student_marks_calculator.py):** Automates academic tier sorting, weighted exam average calculations, and performance tracking scripts.
 
-### 4. 🎬 [Cinema Multiplex Ticketing System](./04_movie_ticket_billing.py)
-Computes seat classification markups, dynamic group quantity discounts, promotional meal package combinations, and state tax itemization.
+### 🏦 Financial Engineering & Payroll Calculators
+* **[01. Loan EMI Amortization Schedule](./06_loan_emi_calculator.py):** Generates structural debt repayment profiles, processing principal reduction and early payment fees.
+* **[02. Income Tax Matrix Calculator](./12_income_tax_calculator.py):** Parses multi-bracket progressive tax thresholds, deductible allowance exclusions, and net income outputs.
+* **[03. Corporate Employee Payroll Engine](./16_employee_payroll_calculator.py):** Computes variable base salaries, overtime multipliers, performance bonus add-ons, and statutory benefit deductions.
+* **[04. Electricity Utility Bill Generator](./20_electricity_bill_generator.py):** Processes multi-tier residential kilowatt consumption grids, fixed base infrastructure fees, and peak-hour energy surcharges.
 
-### 5. 💻 [DevBill: Freelance Milestone Invoicing](./05_freelance_project_invoice.py)
-Automates contract development tracking, variable project milestone triggers, project revision penalties, and emergency support surge pricing multipliers.
-
-### 6. 🌐 [Cloud API Gateway Billing](./06_api_gateway_billing.py)
-Handles enterprise API usage tracking, tier-based access fees, overage calculations, and dynamic request volume billing models.
-
-### 7. ✈️ [Airline Flight Ticketing Engine](./07_flight_booking_invoicing.py)
-Calculates base travel fares, variable baggage weight overage metrics, premium seating upcharges, and flight booking convenience fees.
-
-### 8. 🏦 [Loan EMI Amortization Schedule](./08_loan_emi_calculator.py)
-Generates interest-bearing payment schedules, parsing principal reduction formulas, early payment penalties, and multi-year credit tables.
-
-### 9. 🏥 [Hospital Inpatient Invoicing](./09_hospital_billing_system.py)
-Aggregates overnight ward room rates, specialist consultation fees, tiered diagnostic scan pricing, and healthcare tax calculations.
-
-### 10. 🖥️ [Cloud Server Infrastructure Invoicing](./10_virtual_machine_runtime_billing.py)
-Processes hourly virtual machine instance uptimes, high-performance RAM/CPU scaling adjustments, and block storage capacity overhead charges.
+### 📁 Technical Proof-of-Concepts (Foundational Studies)
+* **[01. Banking Core System](./17_banking_system.py)** / **[02. Superhero Arcade Logic](./18_superhero_game.py)** / **[03. Circle Perimeter Matrix](./19_circle_perimeter_and_area_calculator.py)**: Foundational technical syntax verification modules validating state modification rules and object class structures.
 
 ---
 
@@ -46,3 +43,4 @@ Looking to optimize your core business logic, automate complex invoices, or buil
 
 * **GitHub Profile:** [@farhan-backend](https://github.com)
 * **Email:** [Contact Me Via Email](mailto:mohammed.farhan0648@gmail.com)
+
