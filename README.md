@@ -9,7 +9,7 @@ A comprehensive collection of 20 standalone, production-grade business logic mod
 
 ## 📦 Featured Backend Core Engines
 
-### 1. 🚛 [Logistics & Dispatch Management](./01_logistics_ dispatch_management.py)
+### 1. 🚛 [Logistics & Dispatch Management](./01_logistics_dispatch_management.py)
 Calculates dynamic routing delivery tariffs, multi-warehouse dispatch cross-docking models, fuel cost indexing surcharges, and automated green carbon offset parameters.
 
 ### 2. ⚡ [VoltPulse: EV Charging & Energy Billing](./04_ev_charging_billing.py)
