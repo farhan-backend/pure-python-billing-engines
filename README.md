@@ -37,4 +37,4 @@ Automates contract development tracking, variable project milestone triggers, pr
 Looking to optimize your core business logic, automate complex invoices, or build stable backend architectures? Let's discuss your engineering needs!
 
 * **GitHub Profile:** [@farhan-backend](https://github.com)
-* **Email:** [Contact Me Via Email](mailto:farhan.backend@://gmail.com)
+* **Email:** [Contact Me Via Email](mailto:mohammed.farhan0648@gmail.com)
