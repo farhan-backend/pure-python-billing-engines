@@ -1,4 +1,4 @@
-# Pure Python Business Automation & Billing Engines
+# 💻Pure Python Business Automation & Billing Engines
 
 A comprehensive enterprise collection of production-grade business logic modules, financial calculators, and automated invoicing frameworks written in pure Python. This repository showcases core algorithmic architectures, object-oriented programming (OOP), data manipulation matrices, and complex pricing calculations required for high-performance backend systems.
 
