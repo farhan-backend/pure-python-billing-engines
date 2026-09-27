@@ -18,7 +18,7 @@ Processes real-world electric vehicle charging intervals, high-speed thermal reg
 ### 3. ☁️ [CloudTier: SaaS Subscription Matrix](./05_saas_subscription_billing.py)
 Manages multi-layered enterprise SaaS licenses, prorated service add-ons, computing utility burst overrides, and monthly rolling transaction volumes.
 
-### 4. 🎬 Cinema Multiplex Ticketing System
+### 4. 🎬 [Cinema Multiplex Ticketing System](./09_cinema_ticket_invoice.py)
 Computes seat classification markups, dynamic group quantity discounts, promotional meal package combinations, and state tax itemization.
 
 ### 5. 💻 DevBill: Freelance Milestone Invoicing
