@@ -21,7 +21,7 @@ Manages multi-layered enterprise SaaS licenses, prorated service add-ons, comput
 ### 4. 🎬 [Cinema Multiplex Ticketing System](./09_cinema_ticket_invoice.py)
 Computes seat classification markups, dynamic group quantity discounts, promotional meal package combinations, and state tax itemization.
 
-### 5. 💻 [DevBill: Freelance Milestone Invoicing](./10_freelance_ticket_invoice.py)
+### 5. 💻 [DevBill: Freelance Milestone Invoicing](./10_freelance_project_invoice.py)
 Automates contract development tracking, variable project milestone triggers, project revision penalties, and emergency support surge pricing multipliers.
 
 ### 🚀 Additional Engines Included:
