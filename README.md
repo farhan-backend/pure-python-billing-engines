@@ -42,4 +42,4 @@ A comprehensive enterprise collection of production-grade business logic modules
 Looking to optimize your core business logic, automate complex invoices, or build stable backend architectures? Let's discuss your engineering needs!
 
 * **👤 GitHub Profile:** [@farhan-backend](https://github.com)
-* **✉️ Email:** [Contact Me Via Email](mailto:mohammed.farhan0648@gmail.com)
+* **✉️ Email:**          [Contact Me Via Email](mailto:mohammed.farhan0648@gmail.com)
